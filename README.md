@@ -1,11 +1,11 @@
-## OLÁ 👋
+## Olá 👋
 
-Lara Braga
+Sou Lara Braga
 
-## Contato
+## Entre em contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:@gmail.com)
 
-## Tecnologias
+## Tecnologias que utilizo
 <div>
   <img align="center" alt="python" height="45" widht="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
 </div>
