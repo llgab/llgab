@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://github.com/inttter/md-badges/tree/main
+https://github.com/marwin1991/profile-technology-icons/blob/main/README.md
 -->
