@@ -8,7 +8,12 @@ Sou Lara Braga
 
 ## Tecnologias que utilizo
 <div>
-  <img align="center" alt="python" height="45" widht="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+  <img align="center" alt="python" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
+  <img align="center" alt="php" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png"/>
+  <img align="center" alt="javascript" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
+  <img align="center" alt="sql" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sql.png"/>
+  <img align="center" alt="html" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
+  <img align="center" alt="css" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
 </div>
 
 <!--
