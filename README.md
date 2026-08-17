@@ -61,7 +61,17 @@ O projeto combina um **site institucional responsivo** com um **sistema dinâmic
 
 > Todos os dados e informações utilizados no projeto são fictícios e foram criados exclusivamente para fins de demonstração.
 
-**Tecnologias:** HTML5, CSS3, JavaScript, PHP, MySQL
+<div align="center"> 
+  <p>· · ·</p> 
+</div>
+
+**OdontoCare** is a full-stack web application developed as a portfolio project, simulating the digital environment of a modern dental clinic.
+
+The project combines a **responsive institutional website** with a **dynamic Content Management System (CMS)** built from scratch.
+
+> All data and information used in the project are fictional and were created exclusively for demonstration purposes.
+
+**Linguagens e ferramentas / Languagues and tools:** HTML5, CSS3, JavaScript, PHP, MySQL
 
 🔗 [Repositório / Repository](https://github.com/llgab/odontocare-web)
 
