@@ -26,10 +26,6 @@
 
 ## 🛠️ Tecnologias e Ferramentas / Skills & Tools
 
-Para garantir um carregamento rápido e limpo, aqui estão as minhas principais tecnologias:
-
-To ensure a clean and fast loading page, here is my main tech stack
-
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Backend:** Python, PHP
 * **Database:** MySQL
