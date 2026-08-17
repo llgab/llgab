@@ -40,7 +40,7 @@ To ensure a clean and fast loading page, here is my main tech stack
 
 Sinta-se à vontade para me mandar uma mensagem:
 
-Feel free to reach out to me):
+Feel free to reach out to me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laralgab@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/lara-lgab)
