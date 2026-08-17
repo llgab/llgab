@@ -71,6 +71,10 @@ The project combines a **responsive institutional website** with a **dynamic Con
 
 > All data and information used in the project are fictional and were created exclusively for demonstration purposes.
 
+<div align="center"> 
+  <p>· · ·</p> 
+</div>
+
 **Linguagens e ferramentas / Languagues and tools:** HTML5, CSS3, JavaScript, PHP, MySQL
 
 🔗 [Repositório / Repository](https://github.com/llgab/odontocare-web)
