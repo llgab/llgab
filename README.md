@@ -1,7 +1,8 @@
 # Olá! / Hello! 👋 I'm Lara Braga
 
-🇧🇷 **Desenvolvedora de Software | Formada em Análise e Desenvolvimento de Sistemas**
-🇺🇸 **Software Developer | Graduated in Systems Analysis and Development**
+**Desenvolvedora de Software | Formada em Análise e Desenvolvimento de Sistemas**
+
+**Software Developer | Graduated in Systems Analysis and Development**
 
 ---
 
