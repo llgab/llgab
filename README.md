@@ -13,6 +13,7 @@
 * Atualmente focada em aprimorar minhas habilidades.
 * Buscando sempre aprender novas tecnologias e boas práticas de código.
 
+--
 
 * I have a degree in Systems Analysis and Development.
 * Passionate about creating tech solutions and developing efficient projects.
