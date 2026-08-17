@@ -1,36 +1,42 @@
-## Olá 👋
+# Olá! / Hello! 👋 I'm Lara Braga
 
-Sou Lara Braga
+🇧🇷 **Desenvolvedora de Software | Formada em Análise e Desenvolvimento de Sistemas**
+🇺🇸 **Software Developer | Graduated in Systems Analysis and Development**
 
-## Entre em contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:@gmail.com)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+---
 
-## Tecnologias que utilizo
-<div>
-  <img align="center" alt="python" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
-  <img align="center" alt="php" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png"/>
-  <img align="center" alt="javascript" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png"/>
-  <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"/>
-  <img align="center" alt="html" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"/>
-  <img align="center" alt="css" height="45" width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"/>
-</div>
+## Sobre mim / About me
 
-<!--
-**llgab/llgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🇧🇷 Português:**
+* Sou formada em Análise e Desenvolvimento de Sistemas.
+* Apaixonada por criar soluções tecnológicas e desenvolver projetos eficientes.
+* Atualmente focada em aprimorar minhas habilidades.
+* Buscando sempre aprender novas tecnologias e boas práticas de código.
 
-Here are some ideas to get you started:
+**🇺🇸 English:**
+* I have a degree in Systems Analysis and Development.
+* Passionate about creating tech solutions and developing efficient projects.
+* Currently focused on improving my skills.
+* Always looking to learn new technologies and clean code practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-https://github.com/inttter/md-badges/tree/main
-https://github.com/marwin1991/profile-technology-icons/blob/main/README.md
-https://github.com/anuraghazra/github-readme-stats
--->
+## 🛠️ Tecnologias e Ferramentas / Skills & Tools
+
+Para garantir um carregamento rápido e limpo, aqui estão as minhas principais tecnologias:
+*(To ensure a clean and fast loading page, here is my main tech stack):*
+
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Backend:** Python, PHP
+* **Database:** MySQL
+
+---
+
+## Entre em contato / Let's connect!
+
+Sinta-se à vontade para me mandar uma mensagem:
+*(Feel free to reach out to me):*
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laralgab@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/lara-lgab)
+
