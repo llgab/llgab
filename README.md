@@ -13,7 +13,9 @@
 * Atualmente focada em aprimorar minhas habilidades.
 * Buscando sempre aprender novas tecnologias e boas práticas de código.
 
----
+<div align="center"> 
+  <p>· · ·</p> 
+</div>
 
 * I have a degree in Systems Analysis and Development.
 * Passionate about creating tech solutions and developing efficient projects.
@@ -37,6 +39,7 @@ To ensure a clean and fast loading page, here is my main tech stack
 ## Entre em contato / Let's connect!
 
 Sinta-se à vontade para me mandar uma mensagem:
+
 Feel free to reach out to me):
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laralgab@hotmail.com)
