@@ -75,7 +75,7 @@ The project combines a **responsive institutional website** with a **dynamic Con
   <p>· · ·</p> 
 </div>
 
-**Linguagens e ferramentas / Languagues and tools:** HTML5, CSS3, JavaScript, PHP, MySQL
+**Linguagens e ferramentas / Languages and tools:** HTML5, CSS3, JavaScript, PHP, MySQL
 
 🔗 [Repositório / Repository](https://github.com/llgab/odontocare-web)
 
